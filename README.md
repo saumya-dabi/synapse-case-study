@@ -39,4 +39,4 @@ Auto-update: signed builds on object storage + CDN, in-app updater polls a versi
 
 ## My role
 
-Product manager and primary builder: concept, access-model design, architecture decisions with engineering, rollout, and iteration. Related public work: [pm-agents](https://github.com/saumdabi/pm-agents) (agentic PM tooling) and [vault-rag](https://github.com/saumdabi/vault-rag) (the local-first RAG pattern Synapse's retrieval layer grew out of).
+Product manager and primary builder: concept, access-model design, architecture decisions with engineering, rollout, and iteration. Related public work: [pm-agents](https://github.com/saumya-dabi/pm-agents) (agentic PM tooling) and [vault-rag](https://github.com/saumya-dabi/vault-rag) (the local-first RAG pattern Synapse's retrieval layer grew out of).
